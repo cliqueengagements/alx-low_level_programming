@@ -1,16 +1,10 @@
 #include "main.h"
 
 /**
- * leet - encode a string into 1337
- * @s: string
- *You can only use one if in your code
- *You can only use two loops in your code
- *You are not allowed to use switch
- *You are not allowed to use any ternary operation
- * Return: encoded string `s`
+ *leet- converts  letters to num
+ *@s: checked
+ *Return: s
  */
-
-
 char *leet(char *s)
 {
 	int i, j;
