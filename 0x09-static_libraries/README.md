@@ -11,3 +11,6 @@ Static libraries are collections of object files that are linked into the progra
     <li><a href="https://github.com/cliqueengagements/alx-low_level_programming/blob/master/0x09-static_libraries/create_static_lib.sh">create_static_lib.sh</li>
   </ul>
 </div>
+
+<br>
+<a href="https://github.com/cliqueengagements">Author Olawunmi Eniola</a>
